@@ -17,3 +17,8 @@ you can add your email to:
 <code bash>
 Entrez.email = ""
 </code>
+
+Requirements:
+
+python 2.7
+Biopython
