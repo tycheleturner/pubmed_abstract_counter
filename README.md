@@ -6,6 +6,8 @@ Example:
 python pubmed_abstract_counter.py infile.txt > outfile.txt
 </code>
 
+Out file consists of the original query followed by a tab and than the count of abstracts matching that query.
+
 Note: In 
 
 <code bash>
